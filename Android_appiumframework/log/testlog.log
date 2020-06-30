@@ -1,0 +1,339 @@
+2020-06-29 10:03:03,355 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 10:03:17,712 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 10:03:18,189 common_func.py[line:40] INFO click cancel button
+2020-06-29 10:03:18,236 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 10:03:18,378 common_func.py[line:57] INFO click skip button
+2020-06-29 10:03:18,967 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 10:03:18,968 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 10:03:21,007 loginView.py[line:49] INFO password is zxw2018
+2020-06-29 10:03:21,551 loginView.py[line:52] INFO click login Button
+2020-06-29 10:03:22,116 loginView.py[line:54] INFO login Finished !
+2020-06-29 10:03:22,178 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 10:03:22,179 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 10:03:28,136 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 10:03:34,180 loginView.py[line:90] INFO login success !
+2020-06-29 10:03:34,180 loginView.py[line:100] INFO =======logout_action========
+2020-06-29 14:06:25,660 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 14:09:18,063 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 14:09:46,078 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 14:09:46,498 common_func.py[line:40] INFO click cancel button
+2020-06-29 14:09:46,536 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 14:09:46,762 common_func.py[line:57] INFO click skip button
+2020-06-29 14:09:47,255 registerView.py[line:63] INFO ==========register_action===========
+2020-06-29 14:09:48,705 registerView.py[line:68] INFO update  userhaeader
+2020-06-29 14:09:52,709 registerView.py[line:75] INFO register username is carl9396
+2020-06-29 14:09:54,621 registerView.py[line:79] INFO register password is abc3374
+2020-06-29 14:09:55,201 registerView.py[line:83] INFO register email is qwe9584@qq.com
+2020-06-29 14:09:56,245 registerView.py[line:87] INFO click register button
+2020-06-29 14:10:02,067 registerView.py[line:94] ERROR register fail !
+2020-06-29 14:10:02,067 common_func.py[line:109] INFO get register fail  screen 
+2020-06-29 14:36:15,005 myunit.py[line:21] INFO ======setUp========
+2020-06-29 14:36:15,010 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 14:36:48,657 myunit.py[line:21] INFO ======setUp========
+2020-06-29 14:36:48,660 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 14:37:00,200 test_register.py[line:15] INFO =======test_user_register========
+2020-06-29 14:37:00,200 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 14:37:00,550 common_func.py[line:40] INFO click cancel button
+2020-06-29 14:37:00,578 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 14:37:00,704 common_func.py[line:57] INFO click skip button
+2020-06-29 14:37:01,298 registerView.py[line:63] INFO ==========register_action===========
+2020-06-29 14:37:02,767 registerView.py[line:68] INFO update  userhaeader
+2020-06-29 14:37:06,937 registerView.py[line:75] INFO register username is carl6046
+2020-06-29 14:37:09,128 registerView.py[line:79] INFO register password is abc2211
+2020-06-29 14:37:09,662 registerView.py[line:83] INFO register email is qwe7617@qq.com
+2020-06-29 14:37:10,733 registerView.py[line:87] INFO click register button
+2020-06-29 14:37:16,581 registerView.py[line:94] ERROR register fail !
+2020-06-29 14:37:16,582 common_func.py[line:109] INFO get register fail  screen 
+2020-06-29 14:37:17,044 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:06:41,322 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:06:41,331 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:06:52,170 test_login.py[line:22] INFO =========test_login_2017============
+2020-06-29 15:06:52,170 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 15:06:52,274 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:07:59,598 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:14:06,415 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:14:17,223 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:14:17,677 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:14:17,702 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:14:18,408 common_func.py[line:57] INFO click skip button
+2020-06-29 15:14:18,453 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:14:18,454 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 15:14:20,205 loginView.py[line:49] INFO password is zxw2018
+2020-06-29 15:14:20,742 loginView.py[line:52] INFO click login Button
+2020-06-29 15:14:21,296 loginView.py[line:54] INFO login Finished !
+2020-06-29 15:14:21,297 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 15:14:21,297 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 15:14:26,487 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 15:14:33,143 loginView.py[line:90] INFO login success !
+2020-06-29 15:14:33,143 loginView.py[line:100] INFO =======logout_action========
+2020-06-29 15:14:48,516 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:14:48,519 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:15:00,239 test_login.py[line:22] INFO =========test_login_2017============
+2020-06-29 15:15:00,239 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 15:15:00,241 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:15:00,683 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:15:00,734 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:15:00,996 common_func.py[line:57] INFO click skip button
+2020-06-29 15:15:01,501 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:15:01,501 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 15:15:05,849 loginView.py[line:49] INFO password is  zxw2018
+2020-06-29 15:15:06,475 loginView.py[line:52] INFO click login Button
+2020-06-29 15:15:07,052 loginView.py[line:54] INFO login Finished !
+2020-06-29 15:15:07,052 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 15:15:07,052 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 15:15:13,050 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 15:15:19,116 loginView.py[line:90] INFO login success !
+2020-06-29 15:15:19,116 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:17:06,200 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:17:06,203 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:17:16,692 test_login.py[line:22] INFO =========test_login_2017============
+2020-06-29 15:17:16,693 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:18:06,456 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:18:06,461 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:18:17,913 test_login.py[line:22] INFO =========test_login_2017============
+2020-06-29 15:18:17,913 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 15:18:17,918 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:18:18,188 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:18:18,224 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:18:18,365 common_func.py[line:57] INFO click skip button
+2020-06-29 15:18:18,923 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:18:18,923 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 15:18:20,974 loginView.py[line:49] INFO password is  zxw2018
+2020-06-29 15:18:21,100 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:19:00,523 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:19:00,527 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:19:11,791 test_login.py[line:22] INFO =========test_login_2017============
+2020-06-29 15:19:11,791 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 15:19:11,793 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:19:12,473 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:19:12,511 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:19:13,240 common_func.py[line:57] INFO click skip button
+2020-06-29 15:19:13,286 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:19:13,287 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 15:19:15,356 loginView.py[line:49] INFO password is  zxw2018
+2020-06-29 15:19:15,901 loginView.py[line:52] INFO click login Button
+2020-06-29 15:19:16,455 loginView.py[line:54] INFO login Finished !
+2020-06-29 15:19:16,455 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 15:19:16,455 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 15:19:21,640 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 15:19:27,768 loginView.py[line:90] INFO login success !
+2020-06-29 15:19:27,769 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:21:41,167 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:21:41,171 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:21:52,232 test_login.py[line:22] INFO =========test_login_2017============
+2020-06-29 15:21:52,233 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 15:21:52,235 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:21:53,845 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:21:53,871 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:21:54,572 common_func.py[line:57] INFO click skip button
+2020-06-29 15:21:54,596 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:21:54,597 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 15:21:56,467 loginView.py[line:49] INFO password is  zxw2018
+2020-06-29 15:21:57,019 loginView.py[line:52] INFO click login Button
+2020-06-29 15:21:57,586 loginView.py[line:54] INFO login Finished !
+2020-06-29 15:21:57,587 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 15:21:57,587 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 15:22:02,873 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 15:22:09,233 loginView.py[line:90] INFO login success !
+2020-06-29 15:22:09,233 loginView.py[line:101] INFO =======logout_action========
+2020-06-29 15:22:12,177 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:23:02,935 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:23:02,937 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:23:14,507 test_login.py[line:38] INFO =========test_login_2018============
+2020-06-29 15:23:14,508 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 15:23:14,510 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:23:15,143 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:23:15,170 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:23:15,285 common_func.py[line:57] INFO click skip button
+2020-06-29 15:23:15,872 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:23:15,873 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 15:23:16,534 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:23:44,027 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:23:44,031 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:23:55,027 test_login.py[line:38] INFO =========test_login_2018============
+2020-06-29 15:23:55,027 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 15:23:55,029 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:23:55,546 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:23:55,578 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:23:55,709 common_func.py[line:57] INFO click skip button
+2020-06-29 15:23:56,280 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:23:56,281 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 15:23:58,168 loginView.py[line:49] INFO password is zxw2018
+2020-06-29 15:23:58,733 loginView.py[line:52] INFO click login Button
+2020-06-29 15:23:59,261 loginView.py[line:54] INFO login Finished !
+2020-06-29 15:23:59,261 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 15:23:59,261 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 15:24:05,199 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 15:24:11,063 loginView.py[line:90] INFO login success !
+2020-06-29 15:24:11,064 loginView.py[line:101] INFO =======logout_action========
+2020-06-29 15:24:14,269 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:24:41,337 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:24:41,340 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:24:53,970 test_login.py[line:54] INFO =========test_login_error============
+2020-06-29 15:24:53,971 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 15:24:53,974 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:24:54,430 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:24:54,456 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:24:54,653 common_func.py[line:57] INFO click skip button
+2020-06-29 15:24:55,172 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:24:55,172 loginView.py[line:46] INFO username is 2123
+2020-06-29 15:24:57,349 loginView.py[line:49] INFO password is 1325
+2020-06-29 15:24:57,891 loginView.py[line:52] INFO click login Button
+2020-06-29 15:24:58,423 loginView.py[line:54] INFO login Finished !
+2020-06-29 15:24:58,423 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 15:24:58,424 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 15:25:03,801 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 15:25:14,591 loginView.py[line:86] ERROR login Fail !
+2020-06-29 15:25:14,592 common_func.py[line:109] INFO get login Fail  screenshot 
+2020-06-29 15:25:14,931 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:31:07,464 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:31:07,468 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:31:17,745 test_login.py[line:38] INFO =========test_login_2018============
+2020-06-29 15:31:17,745 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 15:31:17,746 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:31:18,199 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:31:18,224 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:31:18,363 common_func.py[line:57] INFO click skip button
+2020-06-29 15:31:18,933 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:31:18,934 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 15:31:21,049 loginView.py[line:49] INFO password is zxw2018
+2020-06-29 15:31:21,585 loginView.py[line:52] INFO click login Button
+2020-06-29 15:31:22,137 loginView.py[line:54] INFO login Finished !
+2020-06-29 15:31:22,137 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 15:31:22,137 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 15:31:27,302 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 15:31:33,204 loginView.py[line:90] INFO login success !
+2020-06-29 15:31:33,204 loginView.py[line:101] INFO =======logout_action========
+2020-06-29 15:31:35,919 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:32:55,217 myunit.py[line:21] INFO ======setUp========
+2020-06-29 15:32:55,221 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:33:06,411 test_login.py[line:55] INFO =========test_login_error============
+2020-06-29 15:33:06,412 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 15:33:06,414 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:33:06,970 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:33:06,989 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:33:07,134 common_func.py[line:57] INFO click skip button
+2020-06-29 15:33:07,728 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:33:07,728 loginView.py[line:46] INFO username is 2123
+2020-06-29 15:33:09,780 loginView.py[line:49] INFO password is 1325
+2020-06-29 15:33:10,332 loginView.py[line:52] INFO click login Button
+2020-06-29 15:33:10,857 loginView.py[line:54] INFO login Finished !
+2020-06-29 15:33:10,857 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 15:33:10,857 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 15:33:16,203 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 15:33:26,817 loginView.py[line:86] ERROR login Fail !
+2020-06-29 15:33:26,817 common_func.py[line:109] INFO get login Fail  screenshot 
+2020-06-29 15:33:27,247 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 15:35:49,004 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 15:35:59,434 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 15:35:59,872 common_func.py[line:40] INFO click cancel button
+2020-06-29 15:35:59,909 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 15:36:00,032 common_func.py[line:57] INFO click skip button
+2020-06-29 15:36:00,614 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 15:36:00,614 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 15:36:02,722 loginView.py[line:49] INFO password is zxw2018
+2020-06-29 15:36:03,259 loginView.py[line:52] INFO click login Button
+2020-06-29 15:36:03,778 loginView.py[line:54] INFO login Finished !
+2020-06-29 15:36:03,779 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 15:36:03,779 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 15:36:08,895 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 15:36:14,517 loginView.py[line:90] INFO login success !
+2020-06-29 15:36:14,517 loginView.py[line:100] INFO =======logout_action========
+2020-06-29 16:10:04,512 RunToReport.py[line:34] INFO start run testcase
+2020-06-29 16:10:16,097 RunToReport.py[line:34] INFO start run testcase
+2020-06-29 16:10:16,097 myunit.py[line:21] INFO ======setUp========
+2020-06-29 16:10:16,100 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 16:10:28,357 test_login.py[line:39] INFO =========test_login_2018============
+2020-06-29 16:10:28,357 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 16:10:28,359 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 16:10:28,844 common_func.py[line:40] INFO click cancel button
+2020-06-29 16:10:28,863 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 16:10:29,021 common_func.py[line:57] INFO click skip button
+2020-06-29 16:10:29,578 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 16:10:29,579 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 16:10:31,523 loginView.py[line:49] INFO password is zxw2018
+2020-06-29 16:10:32,087 loginView.py[line:52] INFO click login Button
+2020-06-29 16:10:32,621 loginView.py[line:54] INFO login Finished !
+2020-06-29 16:10:32,622 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 16:10:32,622 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 16:10:37,880 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 16:10:44,392 loginView.py[line:90] INFO login success !
+2020-06-29 16:10:44,392 loginView.py[line:100] INFO =======logout_action========
+2020-06-29 16:10:47,012 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 16:12:42,212 RunToReport.py[line:34] INFO start run testcase
+2020-06-29 16:12:42,213 myunit.py[line:21] INFO ======setUp========
+2020-06-29 16:12:42,217 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 16:12:52,730 test_login.py[line:39] INFO =========test_login_2018============
+2020-06-29 16:12:52,730 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 16:12:52,732 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 16:12:53,417 common_func.py[line:40] INFO click cancel button
+2020-06-29 16:12:53,434 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 16:12:53,553 common_func.py[line:57] INFO click skip button
+2020-06-29 16:12:54,116 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 16:12:54,116 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 16:12:55,988 loginView.py[line:49] INFO password is zxw2018
+2020-06-29 16:12:56,518 loginView.py[line:52] INFO click login Button
+2020-06-29 16:12:57,058 loginView.py[line:54] INFO login Finished !
+2020-06-29 16:12:57,058 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 16:12:57,059 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 16:13:02,938 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 16:13:08,896 loginView.py[line:90] INFO login success !
+2020-06-29 16:13:08,896 loginView.py[line:100] INFO =======logout_action========
+2020-06-29 16:13:11,483 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 16:14:57,494 RunToReport.py[line:35] INFO start run testcase
+2020-06-29 16:14:57,494 myunit.py[line:21] INFO ======setUp========
+2020-06-29 16:14:57,497 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 16:15:14,938 test_login.py[line:23] INFO =========test_login_2017============
+2020-06-29 16:15:14,938 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 16:15:14,940 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 16:15:15,216 common_func.py[line:40] INFO click cancel button
+2020-06-29 16:15:15,237 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 16:15:15,423 common_func.py[line:57] INFO click skip button
+2020-06-29 16:15:15,980 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 16:15:15,980 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 16:15:17,785 loginView.py[line:49] INFO password is  zxw2018
+2020-06-29 16:15:18,319 loginView.py[line:52] INFO click login Button
+2020-06-29 16:15:18,854 loginView.py[line:54] INFO login Finished !
+2020-06-29 16:15:18,854 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 16:15:18,854 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 16:15:24,217 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 16:15:30,107 loginView.py[line:90] INFO login success !
+2020-06-29 16:15:30,108 loginView.py[line:100] INFO =======logout_action========
+2020-06-29 16:15:33,204 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 16:15:37,209 myunit.py[line:21] INFO ======setUp========
+2020-06-29 16:15:37,215 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 16:15:50,172 test_login.py[line:39] INFO =========test_login_2018============
+2020-06-29 16:15:50,172 common_func.py[line:139] INFO =======et_csv_data=========
+2020-06-29 16:15:50,173 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 16:15:50,660 common_func.py[line:40] INFO click cancel button
+2020-06-29 16:15:50,692 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 16:15:51,066 common_func.py[line:57] INFO click skip button
+2020-06-29 16:15:51,412 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 16:15:51,412 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 16:15:53,351 loginView.py[line:49] INFO password is zxw2018
+2020-06-29 16:15:53,881 loginView.py[line:52] INFO click login Button
+2020-06-29 16:15:54,409 loginView.py[line:54] INFO login Finished !
+2020-06-29 16:15:54,409 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 16:15:54,409 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 16:16:00,366 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 16:16:05,719 loginView.py[line:90] INFO login success !
+2020-06-29 16:16:05,719 loginView.py[line:100] INFO =======logout_action========
+2020-06-29 16:16:09,273 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 16:16:13,282 myunit.py[line:21] INFO ======setUp========
+2020-06-29 16:16:13,288 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 16:16:30,624 test_register.py[line:15] INFO =======test_user_register========
+2020-06-29 16:16:30,624 myunit.py[line:29] INFO =========tearDown============
+2020-06-29 17:04:18,465 RunToReport.py[line:41] INFO start run testcase
+2020-06-29 17:04:18,465 myunit.py[line:21] INFO ======setUp========
+2020-06-29 17:04:18,468 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 17:04:27,583 myunit.py[line:21] INFO ======setUp========
+2020-06-29 17:04:27,595 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 17:04:36,612 myunit.py[line:21] INFO ======setUp========
+2020-06-29 17:04:36,620 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 17:17:15,422 RunToReport.py[line:41] INFO start run testcase
+2020-06-29 17:17:15,422 myunit.py[line:21] INFO ======setUp========
+2020-06-29 17:17:15,425 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 17:17:24,465 myunit.py[line:21] INFO ======setUp========
+2020-06-29 17:17:24,467 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 17:17:33,488 myunit.py[line:21] INFO ======setUp========
+2020-06-29 17:17:33,490 desired_caps.py[line:46] INFO ========start run  app===========

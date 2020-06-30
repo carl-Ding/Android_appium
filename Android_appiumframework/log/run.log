@@ -1,0 +1,121 @@
+2020-06-28 15:53:49,272 desired_caps.py[line:42] INFO ========start run  app===========
+2020-06-28 17:41:14,817 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:42:01,234 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:42:43,280 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:42:57,932 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-28 17:44:25,051 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:44:37,185 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-28 17:45:36,560 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:45:50,619 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-28 17:46:55,144 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:47:07,765 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-28 17:48:08,636 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:48:21,906 common.py[line:131] INFO ==========check_cancelBtn=========
+2020-06-28 17:48:22,606 common.py[line:155] INFO swipeLeft
+2020-06-28 17:48:24,257 common.py[line:170] INFO get startApp screenshot
+2020-06-28 17:51:36,202 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:51:47,555 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-28 17:52:27,026 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:52:39,958 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-28 17:53:34,653 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:53:46,710 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-28 17:55:15,553 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:55:28,143 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-28 17:55:29,462 common_func.py[line:100] INFO get startApp screenshot
+2020-06-28 17:56:14,101 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:56:27,558 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-28 17:56:28,871 common_func.py[line:110] INFO get startAPP  screen 
+2020-06-28 17:56:58,364 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-28 17:57:10,262 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-28 17:57:11,694 common_func.py[line:110] INFO get startAPP  screen 
+2020-06-29 06:34:46,488 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:35:04,814 common_func.py[line:80] INFO ==========swipeLeft==============
+2020-06-29 06:35:06,321 common_func.py[line:109] INFO get startAPP  screen 
+2020-06-29 06:41:48,377 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:42:04,345 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 06:42:31,637 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:42:50,041 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 06:44:37,619 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:44:54,174 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 06:46:19,270 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:46:32,492 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 06:47:32,675 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:47:50,372 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 06:48:16,699 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:48:33,230 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 06:49:47,734 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:50:01,154 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 06:56:21,982 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:56:37,692 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 06:58:16,414 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:58:30,727 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 06:58:46,804 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 06:59:03,346 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 06:59:54,288 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 07:00:08,912 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 07:02:11,986 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 07:02:27,830 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 07:03:26,534 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 07:03:41,033 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 08:41:30,173 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 08:41:42,482 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 08:42:06,101 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 08:42:19,081 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 08:53:19,485 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 08:53:30,630 common_func.py[line:134] INFO =======et_csv_data=========
+2020-06-29 09:39:10,309 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 09:39:23,343 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 09:39:23,898 common_func.py[line:40] INFO click cancel button
+2020-06-29 09:39:23,944 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 09:39:24,147 common_func.py[line:57] INFO click skip button
+2020-06-29 09:39:24,684 loginView.py[line:43] INFO =======login_action=========
+2020-06-29 09:39:24,685 loginView.py[line:45] INFO username is 自学网2018
+2020-06-29 09:42:49,246 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 09:43:01,173 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 09:43:01,654 common_func.py[line:40] INFO click cancel button
+2020-06-29 09:43:01,698 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 09:43:01,813 common_func.py[line:57] INFO click skip button
+2020-06-29 09:43:02,421 loginView.py[line:43] INFO =======login_action=========
+2020-06-29 09:43:02,421 loginView.py[line:45] INFO username is 自学网2018
+2020-06-29 09:43:04,414 loginView.py[line:48] INFO password is zxw2018
+2020-06-29 09:43:05,079 loginView.py[line:51] INFO click login Button
+2020-06-29 09:43:05,501 loginView.py[line:53] INFO login Finished !
+2020-06-29 09:43:05,501 loginView.py[line:99] INFO =======logout_action========
+2020-06-29 09:45:29,319 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 09:47:23,300 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 09:47:36,464 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 09:47:36,731 common_func.py[line:40] INFO click cancel button
+2020-06-29 09:47:36,768 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 09:47:36,965 common_func.py[line:57] INFO click skip button
+2020-06-29 09:47:37,493 loginView.py[line:43] INFO =======login_action=========
+2020-06-29 09:47:37,494 loginView.py[line:45] INFO username is 自学网2018
+2020-06-29 09:47:39,383 loginView.py[line:48] INFO password is zxw2018
+2020-06-29 09:47:39,938 loginView.py[line:51] INFO click login Button
+2020-06-29 09:47:40,492 loginView.py[line:53] INFO login Finished !
+2020-06-29 09:47:40,493 loginView.py[line:99] INFO =======logout_action========
+2020-06-29 09:50:42,882 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 09:50:55,417 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 09:50:55,798 common_func.py[line:40] INFO click cancel button
+2020-06-29 09:50:55,846 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 09:50:56,025 common_func.py[line:57] INFO click skip button
+2020-06-29 09:50:56,587 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 09:50:56,588 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 09:50:58,605 loginView.py[line:49] INFO password is zxw2018
+2020-06-29 09:50:59,187 loginView.py[line:52] INFO click login Button
+2020-06-29 09:50:59,740 loginView.py[line:54] INFO login Finished !
+2020-06-29 09:50:59,741 loginView.py[line:100] INFO =======logout_action========
+2020-06-29 09:52:59,742 desired_caps.py[line:46] INFO ========start run  app===========
+2020-06-29 09:53:12,178 common_func.py[line:33] INFO ============check_updateBtn===============
+2020-06-29 09:53:12,647 common_func.py[line:40] INFO click cancel button
+2020-06-29 09:53:12,686 common_func.py[line:50] INFO ============check_skipBtn===============
+2020-06-29 09:53:12,833 common_func.py[line:57] INFO click skip button
+2020-06-29 09:53:13,418 loginView.py[line:44] INFO =======login_action=========
+2020-06-29 09:53:13,418 loginView.py[line:46] INFO username is 自学网2018
+2020-06-29 09:53:15,485 loginView.py[line:49] INFO password is zxw2018
+2020-06-29 09:53:16,053 loginView.py[line:52] INFO click login Button
+2020-06-29 09:53:16,602 loginView.py[line:54] INFO login Finished !
+2020-06-29 09:53:16,602 loginView.py[line:75] INFO ======check_loginStatus=====
+2020-06-29 09:53:16,602 common_func.py[line:117] INFO =======check_market_ad=======
+2020-06-29 09:53:21,668 loginView.py[line:61] INFO =======check_account_alert=======
+2020-06-29 09:53:28,076 loginView.py[line:90] INFO login success !
+2020-06-29 09:53:28,076 loginView.py[line:100] INFO =======logout_action========
